@@ -2233,7 +2233,7 @@ test_df.max(axis ='columns')
 
 
 
-## Model Selection
+## Label and Feature Splitting
 
 As mentioned, I will be using scikit-learn modules for machine learning. From here onwards, these modules will be used to oversample, initialize, run quality checks, and optimize the model. Before doing this, I will be defining variables for the model. Historically, X is the features and Y is the labels. I will do this for both the train and test datasets. The data must be formatted this in this manner to use scikit-learn modules. You also want to split the dataset before running any oversampling techniques (otherwise there will be repeat data in the test and train datasets)
 
