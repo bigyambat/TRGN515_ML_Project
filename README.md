@@ -4268,7 +4268,7 @@ trial_instance.fit(X_Train, Y_Train)
 
 
 <div id="sk-container-id-1" class="sk-top-container"><div class="sk-text-repr-fallback"><pre>MLPClassifier(alpha=0.1, hidden_layer_sizes=(1500, 1500), max_iter=100,
-              random_state=1, solver=&#x27;sgd&#x27;, verbose=0)</pre><b>In a Jupyter environment, please rerun this cell to show the HTML representation or trust the notebook. <br />On GitHub, the HTML representation is unable to render, please try loading this page with nbviewer.org.</b></div><div class="sk-container" hidden><div class="sk-item"><div class="sk-estimator sk-toggleable"><input class="sk-toggleable__control sk-hidden--visually" id="sk-estimator-id-1" type="checkbox" checked><label for="sk-estimator-id-1" class="sk-toggleable__label sk-toggleable__label-arrow">MLPClassifier</label><div class="sk-toggleable__content"><pre>MLPClassifier(alpha=0.1, hidden_layer_sizes=(1500, 1500), max_iter=100,
+              random_state=1, solver=&#x27;sgd&#x27;, verbose=0)</pre><b></b></div><div class="sk-container" hidden><div class="sk-item"><div class="sk-estimator sk-toggleable"><input class="sk-toggleable__control sk-hidden--visually" id="sk-estimator-id-1" type="checkbox" checked><label for="sk-estimator-id-1" class="sk-toggleable__label sk-toggleable__label-arrow">MLPClassifier</label><div class="sk-toggleable__content"><pre>MLPClassifier(alpha=0.1, hidden_layer_sizes=(1500, 1500), max_iter=100,
               random_state=1, solver=&#x27;sgd&#x27;, verbose=0)</pre></div></div></div></div></div>
 
 
