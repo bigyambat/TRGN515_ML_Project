@@ -1,3 +1,5 @@
+# Alzheimer's Classification using MRI Images with Neural Network Models
+
 # Introduction
 
 ## Initial Motivations for Project
